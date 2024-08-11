@@ -1,5 +1,5 @@
 # OTT-Movie-Recommendation-System
-🎬 Movie Recommendation System Using Machine Learning
+🎬 OTT Movie Recommendation System Using Machine Learning
 Project Overview
 The Movie Recommendation System is designed to suggest movies to users based on their preferences and viewing history. The project utilizes machine learning algorithms to analyze user behavior and generate personalized movie recommendations. This approach improves the user experience by tailoring movie suggestions to individual tastes, increasing user satisfaction and engagement.
 
